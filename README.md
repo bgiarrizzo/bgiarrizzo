@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I’m an experienced Developer and DevOps, and have been working with technology since I was a kid.
+I’m an experienced Developer and DevOps. I have been working with technology since I was a kid.
 
 I’ve written code as a developer and worked as a SysAdmin for startups, retailers, e-merchants, Financial Institutions, and even French territorial organisms.
 
@@ -50,7 +50,7 @@ If you want to work with me, feel free to fill the form on [this page](https://w
 
 ### You Can Follow Me There
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/bgiarrizzo">
     <img align="left" alt="Bruno Giarrizzo | GitHub" width="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
@@ -63,4 +63,4 @@ If you want to work with me, feel free to fill the form on [this page](https://w
   <a href="https://www.linkedin.com/in/bruno-giarrizzo-654b0512b/">
     <img align="left" alt="Bruno Giarrizzo | LinkdeIn" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
-</p>
+</div>
