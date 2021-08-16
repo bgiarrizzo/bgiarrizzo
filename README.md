@@ -33,7 +33,7 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="32" height="32"/>
 </p>
 
-### Some Stats
+### My Stats
 
 Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [reach me](https://www.bruno-giarrizzo.fr/onboard/) if you want to know more about my skills.
 
