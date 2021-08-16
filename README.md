@@ -40,6 +40,7 @@ Statistics are extracted from my public activity and doesn't reflect completely 
 <p align="center">
   <a href="https://github.com/bgiarrizzo">
     <img src="https://github-readme-stats.vercel.app/api?username=bgiarrizzo&show_icons=true&theme=buefy" alt="bgiarrizzo" />
+    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgiarrizzo&layout=compact&hide=html,css&theme=buefy" alt="bgiarrizzo" />
   </a>
 </p>
