@@ -60,6 +60,9 @@ If you want to work with me, feel free to fill the form on [this page](https://w
 <a href="https://www.twitch.tv/bruno_bing">
   <img align="left" alt="Bruno Giarrizzo | Twitch" width="32" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCSXj4YcwcmH57INCrNAR03Q">
+  <img align="left" alt="Bruno Giarrizzo | Youtube" width="32" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+</a>
 <a href="https://www.linkedin.com/in/bruno-giarrizzo-654b0512b/">
   <img align="left" alt="Bruno Giarrizzo | LinkdeIn" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
