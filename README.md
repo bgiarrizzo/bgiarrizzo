@@ -23,8 +23,8 @@ In my opinion, to reach success for a software product, it needs two key ingredi
 Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://www.bruno-giarrizzo.fr/onboard/" target="_blank">reach me</a> if you want to know more about my skills.</p>
 
 <a href="https://github.com/bgiarrizzo">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgiarrizzo&show_icons=true&theme=buefy" alt="flexbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgiarrizzo&layout=compact&hide=html&theme=buefy" alt="flexbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bgiarrizzo&show_icons=true&theme=buefy" alt="bgiarrizzo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgiarrizzo&layout=compact&hide=html,css&theme=buefy" alt="bgiarrizzo" />
 </a>
 
 ## Reach Me Out
