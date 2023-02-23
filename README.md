@@ -14,23 +14,21 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
 ### My Toolset
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="32" height="32" />
+  <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="html5" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="css3" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="css3" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="32" height="32" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="32" height="32" />
+  <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="scaleway" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="javascript" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="typescript" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32" />
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="gatsby" width="32" height="32"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="32" height="32" />
 </p>
 
 ### My Stats
