@@ -7,7 +7,7 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
 ## About Me
 
 - I am working on Python Rest API ([FastAPI](https://github.com/tiangolo/fastapi) / [Django](https://github.com/django/django) / [Flask](https://github.com/pallets/flask)) Development
-- Currently learning Front-End (React/NextJS) & mobile (Swift) Development
+- Currently learning Swift for desktop/mobile/tablet/watch (SwiftUI) + Backend (Vapor)
 - Passionate about automating things
 - Artificial Intelligence Enthusiast
 
@@ -21,19 +21,15 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="32" height="32" />
   <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="32" height="32" />
   
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="32" height="32" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="32" height="32" />
-  <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="scaleway" width="32" height="32" />
   
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32" />
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="32" height="32" />
-  
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="32" height="32" />
 </p>
 
 ### My Stats
 
-Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [reach me](https://www.bruno-giarrizzo.fr/onboard/) if you want to know more about my skills.
+Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.
 
 <p align="center">
   <a href="https://github.com/bgiarrizzo">
@@ -45,15 +41,15 @@ Statistics are extracted from my public activity and doesn't reflect completely 
 
 ## Reach Me Out
 
-If you want to work with me, feel free to fill the form on [this page](https://www.bruno-giarrizzo.fr/onboard/).
+If you want to know more about my skills and work with me, feel free to [book a 30min meeting](https://www.bruno-giarrizzo.fr/schedule/).
 
-### You Can Follow Me There
+### You Can Follow Me Here
 
 <p align="center">
   <a href="https://github.com/bgiarrizzo">
     <img align="left" alt="Bruno Giarrizzo | GitHub" width="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/bruno-giarrizzo-654b0512b/">
+  <a href="https://www.linkedin.com/in/bruno-giarrizzo/">
     <img align="left" alt="Bruno Giarrizzo | LinkdeIn" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
 </p>
