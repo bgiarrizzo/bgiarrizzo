@@ -9,7 +9,6 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
 - I am working on Python Rest API ([FastAPI](https://github.com/tiangolo/fastapi) / [Django](https://github.com/django/django) / [Flask](https://github.com/pallets/flask)) Development
 - Currently learning Swift for desktop/mobile/tablet/watch (SwiftUI) + Backend (Vapor)
 - Passionate about automating things
-- Artificial Intelligence Enthusiast
 
 ### My Toolset
 
