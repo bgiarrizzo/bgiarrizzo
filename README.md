@@ -26,18 +26,6 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="32" height="32" />
 </p>
 
-### My Stats
-
-Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.
-
-<p align="center">
-  <a href="https://github.com/bgiarrizzo">
-    <img src="https://github-readme-stats.vercel.app/api?username=bgiarrizzo&show_icons=true&theme=buefy" alt="bgiarrizzo" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgiarrizzo&layout=compact&hide=html,css&theme=buefy" alt="bgiarrizzo" />
-  </a>
-</p>
-
 ## Reach Me Out
 
 If you want to know more about my skills and work with me, feel free to [book a 30min meeting](https://www.bruno-giarrizzo.fr/schedule/).
@@ -45,6 +33,9 @@ If you want to know more about my skills and work with me, feel free to [book a 
 ### You Can Follow Me Here
 
 <p align="center">
+  <a href="https://www.hyweene.fr/">
+    <img align="left" alt="Bruno Giarrizzo | Website" width="32" src="https://www.vectorlogo.zone/logos/rss/rss-tile.svg" />
+  </a>
   <a href="https://github.com/bgiarrizzo">
     <img align="left" alt="Bruno Giarrizzo | GitHub" width="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
