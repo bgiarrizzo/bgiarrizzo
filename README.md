@@ -26,11 +26,7 @@ I’ve written code as a developer and worked as a SysAdmin for startups, retail
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="32" height="32" />
 </p>
 
-## Reach Me Out
-
-If you want to know more about my skills and work with me, feel free to [book a 30min meeting](https://www.bruno-giarrizzo.fr/schedule/).
-
-### You Can Follow Me Here
+## You Can Follow Me Here
 
 <p align="center">
   <a href="https://www.hyweene.fr/">
